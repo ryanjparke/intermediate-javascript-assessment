@@ -49,6 +49,11 @@ var foo;
 
 // CODE HERE...
 
+// function promiseMe(param){
+
+
+// }
+
 
 
 // *************
